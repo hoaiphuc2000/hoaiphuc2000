@@ -1,5 +1,5 @@
 ### Hi there 👋
-###<figure><embed src="https://wakatime.com/share/@ea1199b5-f7ce-4781-ab0c-c91664b285cf/2828be19-b264-49e5-9a8d-c8b4a31455e3.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@ea1199b5-f7ce-4781-ab0c-c91664b285cf/2828be19-b264-49e5-9a8d-c8b4a31455e3.svg"></embed></figure>
 <!--
 **hoaiphuc2000/hoaiphuc2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
