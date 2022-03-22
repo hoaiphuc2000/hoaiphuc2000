@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ![alt text](https://wakatime.com/share/@ea1199b5-f7ce-4781-ab0c-c91664b285cf/2828be19-b264-49e5-9a8d-c8b4a31455e3.svg)
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcuongquach.com%2Fchung-chi-ccna-la-gi.html&psig=AOvVaw2W9ellZiNc9841uCyMyIMb&ust=1648029714430000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDo15-72fYCFQAAAAAdAAAAABAD)  |  ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slideshare.net%2FAhmadfaridDanish%2Fccna-cert-57765782&psig=AOvVaw2W9ellZiNc9841uCyMyIMb&ust=1648029714430000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDo15-72fYCFQAAAAAdAAAAABAI)
 
 <!--
 **hoaiphuc2000/hoaiphuc2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
